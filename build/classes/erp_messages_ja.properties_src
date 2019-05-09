@@ -1,0 +1,80 @@
+#    Openbravo POS is a point of sales application designed for touch screens.
+#    Copyright (C) 2007-2009 Openbravo, S.L.
+#    http://sourceforge.net/projects/openbravopos
+#    Copyright (c) 2007 openTrends Solucions i Sistemes, S.L
+#    Modified by Openbravo SL on March 22, 2007
+#    These modifications are copyright Openbravo SL
+#    Author/s: A. Romero
+#    You may contact Openbravo SL at: http://www.openbravo.com
+#
+#    This file is part of Openbravo POS.
+#
+#    Openbravo POS is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    Openbravo POS is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with Openbravo POS.  If not, see <http://www.gnu.org/licenses/>.
+
+#label.configerp=ERP configuration
+label.configerp=ERP構成
+
+#label.erpurl=Services URL
+label.erpurl=サービスURL
+
+#label.erpid=Entity code
+label.erpid=エンティティ・コード
+
+#label.erporg=Organization code
+label.erporg=組織コード
+
+#label.erppos=POS code
+label.erppos=POSコード
+
+#label.erpuser=User
+label.erpuser=ユーザー
+
+#label.erppassword=Password
+label.erppassword=パスワード
+
+#message.urlnotdefined=Synchronization service URL has not been defined.
+message.urlnotdefined=同期サービスURLが定義されていません.
+
+#message.syncordersok=The orders synchronization has been successful.
+message.syncordersok=オーダー同期正常.
+
+#message.syncordersinfo={0} orders synchronized.
+message.syncordersinfo={0} オーダー同期しました.
+
+#message.syncproductsok=The data synchronization has been successful.
+message.syncproductsok=データ同期正常.
+
+#message.syncproductsinfo={0} products synchronized.\n{1} customers synchronized.
+message.syncproductsinfo={0} 製品同期しました.\n{1} 顧客同期しました.
+
+#message.remoteexception=Communication error.
+message.remoteexception=通信エラー
+
+#message.serviceexception=Cannot connect to the service.
+message.serviceexception=サービスに接続できません.
+
+#message.malformedurlexception=The service URL is wrong.
+message.malformedurlexception=サービスURLが不正です.
+
+#message.returnnull=Synchronization parameters are wrong.
+message.returnnull=同期パラメーターが不正です.
+
+#message.zeroproducts=There are no data to synchronize.
+message.zeroproducts=同期するデータがありません.
+
+#message.zeroorders=There are no orders to synchronize.
+message.zeroorders=同期するオーダーがありません.
+
+#message.propsnotdefined=The synchronization properties resource "openbravo.properties" has not been defined.
+message.propsnotdefined=同期プロパティ・リソース "openbravo.properties" が定義されていません.

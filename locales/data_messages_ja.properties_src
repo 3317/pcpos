@@ -1,0 +1,192 @@
+#    Openbravo POS is a point of sales application designed for touch screens.
+#    Copyright (C) 2007-2009 Openbravo, S.L.
+#    http://sourceforge.net/projects/openbravopos
+#
+#    This file is part of Openbravo POS.
+#
+#    Openbravo POS is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    Openbravo POS is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with Openbravo POS.  If not, see <http://www.gnu.org/licenses/>.
+
+#exception.noupdatecount=Update count not defined.
+exception.noupdatecount=アップデート数未定義.
+
+#exception.nodataset=Data set not defined.
+exception.nodataset=データセット未定義.
+
+#exception.nonegativelimits=Negative limits not allowed.
+exception.nonegativelimits=負の値を許可しません.
+
+#exception.outofbounds=Out of bounds.
+exception.outofbounds=範囲外エラー.
+
+#exception.noreadfile=Error reading sentences file.
+exception.noreadfile=センテンスファイル読み出しエラー.
+
+#exception.nofinishedfile=Sentences file not finished.
+exception.nofinishedfile=センテンスファイル未完了.
+
+#exception.notnull=The value must be not null.
+exception.notnull=値はnull以外でなければなりません.
+
+#exception.noparamtype=Parameter type not allowed.
+exception.noparamtype=許可されていないパラメーター型.
+
+#qbf.none=None
+qbf.none=指定しない
+
+#qbf.null=Is null
+qbf.null=null
+
+#qbf.notnull=Is not null
+qbf.notnull=null以外
+
+#qbf.equals=Equals
+qbf.equals=等しい
+
+#qbf.distinct=Distinct
+qbf.distinct=異なる
+
+#qbf.greater=Greater
+qbf.greater=大きい
+
+#qbf.less=Less
+qbf.less=小さい
+
+#qbf.greaterequals=Greater or equal
+qbf.greaterequals=大きい　または　等しい
+
+#qbf.lessequals=Less or equals
+qbf.lessequals=小さい　または　等しい
+#label.findwhat=Find what
+label.findwhat=検索する文字列
+#label.where=Where
+label.where=検索項目
+#label.match=Match
+label.match=検索条件
+#label.casesensitive=Case sensitive
+label.casesensitive=大文字と小文字を区別する
+#(button.ok)変更しない
+button.ok=OK
+#button.cancel=Cancel
+button.cancel=キャンセル
+
+#title.find=Find
+title.find=検索
+
+#list.startfield=Start field
+list.startfield=フィールドの先頭
+
+#list.wholefield=Whole field
+list.wholefield=フィールド全体
+
+#list.anypart=Any part of the field
+list.anypart=フィールドの一部分
+
+#list.re=Regular expresion
+list.re=正規表現
+#title.message=Database manager message
+title.message=データベース管理メッセージ
+#button.information=Information
+button.information=インフォメーション
+
+#message.norecord=Record not found.
+message.norecord=レコードが見つかりません.
+
+#message.nolistdata=Cannot find in data list.
+message.nolistdata=データリストを見つけることができません.
+
+#message.noreload=Cannot reload data list.
+message.noreload=データリストをリロードできません.
+
+#message.nomove=Cannot move to other record.
+message.nomove=他のレコードへ移動できません.
+
+#message.nosave=Record not saved.
+message.nosave=レコードを保存できません.
+
+#message.nodelete=Cannot mark the record for deleting.
+message.nodelete=削除するレコードを対象化できません.
+
+#message.nonew=Cannot create a new record.
+message.nonew=新しいレコードを作成できません.
+
+#定義追加
+message.nosaveticket=データを保存できませんでした.
+
+#sgn.danger=Danger\: 
+sgn.danger=危険\: 
+
+#sgn.warning=Warning\: 
+sgn.warning=警告\: 
+
+#sgn.caution=Caution\: 
+sgn.caution=注意\: 
+
+#sgn.notice=Notice\: 
+sgn.notice=通告\: 
+
+#sgn.important=Important\:
+sgn.important=重要\:
+
+#sgn.success=Success\: 
+sgn.success=成功\: 
+
+#sgn.unknown=Unknown\: 
+sgn.unknown=不明\: 
+
+#(Expected)英訳時の誤訳か？ 原文を表示する
+exception.nocompare=Expected comparator for QBF.
+
+#exception.nodelete=No records deleted.
+exception.nodelete=レコードを削除できません.
+
+#exception.noupdate=No records updated.
+exception.noupdate=レコードを更新できません.
+
+#exception.noinsert=No records created.
+exception.noinsert=レコードを作成できません.
+
+#message.changeslost=The changes will be lost. Do you want to continue?
+message.changeslost=変更内容が失われます.  処理を続けますか？
+
+#title.editor=Editor message
+title.editor=編集
+
+#message.wannasave=Do you want to save the changes before exit?
+message.wannasave=変更を保存しますか？
+
+#label.imagefiles=Image files
+label.imagefiles=画像ファイル
+
+#message.resizeimage=The selected image is larger than the accurate size for this field. Do you want to resize the image?
+message.resizeimage=選択された画像はこの項目に適したサイズを超えています.  画像サイズを変更しますか？
+
+#qbf.re=Regular expression
+qbf.re=正規表現
+#label.sortby=Sort by
+label.sortby=ソートキー
+#label.andby=And by
+label.andby=ソートキー(AND)
+
+#message.nosort=The sort condition defined is not valid
+message.nosort=ソート条件が正しくありません.
+
+#caption.sort=Sort
+caption.sort=ソート
+
+#exception.parserconfig= XML analyzer error. Please contact the administrator.
+exception.parserconfig= XML 分析エラー. システム管理者に問い合わせてください.
+#exception.xmlfile= Analysis error. Invalid XML file.
+exception.xmlfile= 分析エラー. 無効なXMLファイル.
+#exception.iofile= Error reading file.
+exception.iofile= ファイル読み出しエラー.

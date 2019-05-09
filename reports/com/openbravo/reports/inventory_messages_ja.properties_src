@@ -1,0 +1,48 @@
+#    Openbravo POS is a point of sales application designed for touch screens.
+#    Copyright (C) 2007-2009 Openbravo, S.L.
+#    http://sourceforge.net/projects/openbravopos
+#
+#    This file is part of Openbravo POS.
+#
+#    Openbravo POS is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    Openbravo POS is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with Openbravo POS.  If not, see <http://www.gnu.org/licenses/>.
+
+#label.title=Warehouses
+label.title=倉庫
+
+#label.ref=Ref.
+label.ref=参照キー
+
+#label.name=Name
+label.name=名称
+
+#label.sec=Security
+label.sec=セキュリティ
+
+#label.units=Units
+label.units=数量
+
+#label.valuebuy=Value buy
+label.valuebuy=仕入価格
+
+#label.valuesell=Value sell
+label.valuesell=販売価格
+
+#label.valuevolume=Volume
+label.valuevolume=ボリューム
+
+#label.valuecost=Cost
+label.valuecost=コスト
+
+#label.max=Maximum
+label.max=最大

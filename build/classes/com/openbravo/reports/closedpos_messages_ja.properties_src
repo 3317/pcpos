@@ -1,0 +1,85 @@
+#    Openbravo POS is a point of sales application designed for touch screens.
+#    Copyright (C) 2007-2009 Openbravo, S.L.
+#    http://sourceforge.net/projects/openbravopos
+#
+#    This file is part of Openbravo POS.
+#
+#    Openbravo POS is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    Openbravo POS is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with Openbravo POS.  If not, see <http://www.gnu.org/licenses/>.
+
+#label.title=Cash closed
+label.title=レジ締め記録
+
+#label.closedate=Closing dates
+label.closedate=締め日時
+
+#label.partialtotal=Total
+label.partialtotal=合計
+
+#label.total=Total
+label.total=合計
+
+#label.partialtax=Taxes
+label.partialtax=税
+
+#label.partialsubtotal=Subtotal
+label.partialsubtotal=小計
+
+#label.tax=Taxes
+label.tax=税
+
+#label.subtotal=Subtotal
+label.subtotal=小計
+
+#transpayment.cash=Cash
+transpayment.cash=現金
+
+#transpayment.magcard=Card
+transpayment.magcard=カード
+
+#transpayment.cashrefund=Refund
+transpayment.cashrefund=返金
+
+#transpayment.magcardrefund=Card refund
+transpayment.magcardrefund=カード(払い戻し)
+
+#transpayment.cheque=Cheque
+transpayment.cheque=小切手
+
+#transpayment.chequerefund=Cheque refund
+transpayment.chequerefund=小切手(払い戻し)
+
+#transpayment.cashin=(in) Cash
+transpayment.cashin=(in) 現金
+
+#transpayment.cashout=(out) Cash
+transpayment.cashout=(out) 現金
+
+#transpayment.free=Free
+transpayment.free=無料
+
+#transpayment.ticket=Ticket
+transpayment.ticket=レシート
+
+#transpayment.paperin=Note input
+transpayment.paperin=クーポン
+
+#transpayment.paperout=Note output
+transpayment.paperout=クーポン(払い戻し)
+
+#transpayment.debt=Debt
+transpayment.debt=売掛金
+#transpayment.debtpaid=Debt paid
+transpayment.debtpaid=売掛金回収
+#label.sequence=Sequence
+label.sequence=シーケンス
